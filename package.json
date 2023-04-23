@@ -1,6 +1,7 @@
 {	
 	"name": "fcc-learn-npm-package-json",	
 	"author": "Abraham Cruz",
+	"description": "Este es un increible proyecto que nos llevara a donde queremos llegar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
