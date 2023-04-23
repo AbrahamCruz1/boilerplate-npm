@@ -1,6 +1,6 @@
-{
-	"author": "Abraham Cruz",
+{	
 	"name": "fcc-learn-npm-package-json",	
+	"author": "Abraham Cruz",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
